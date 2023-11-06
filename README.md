@@ -1,5 +1,5 @@
 # Teensy-3.6-AUDIO-Protoboard
-PCB and Panel gerbers for building an audio exploratory interface based on Teensy 3.6 
+PCB and Panel gerbers for building an audio/synth/DSP exploratory interface based on Teensy 3.6 
 
 Specifications:  
 - Nine pots for analog reading: A12, A13, A14, A15, A16, A17, A18, A19, A20  
