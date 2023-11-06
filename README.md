@@ -1,2 +1,9 @@
 # Teensy-3.6-AUDIO-Protoboard
-PCB and Panel for audio-exploratory interface based on Teensy 3.6 
+PCB and Panel gerbers for building an audio exploratory interface based on Teensy 3.6 
+
+Specifications:
+- Nine pots for analog reading: A12, A13, A14, A15, A16, A17, A18, A19, A20  
+- Five push buttons for digital reading: D24, D25, D26, D27, D28
+- One rotary switch: D3 (CLK), D4 (DT) and D5 (SW)
+- MIDI IN and MIDI OUT. Two panel versions: vs1 for 5DIN MIDI and vs2 for TRS MIDI (3.5 mm stereo jacks have to be wired to the PCB in this case)
+- 
